@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cartalyst/sentry.git",
-                "reference": "v2.0.0-RC2"
+                "reference": "ce6407573d50cd3f283e9fd53c4e79dd96db0f19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cartalyst/sentry/zipball/v2.0.0-RC2",
-                "reference": "v2.0.0-RC2",
+                "url": "https://api.github.com/repos/cartalyst/sentry/zipball/ce6407573d50cd3f283e9fd53c4e79dd96db0f19",
+                "reference": "ce6407573d50cd3f283e9fd53c4e79dd96db0f19",
                 "shasum": ""
             },
             "require": {
@@ -99,7 +99,7 @@
                 "laravel",
                 "security"
             ],
-            "time": "2013-07-13 05:06:11"
+            "time": "2013-08-01 01:26:29"
         },
         {
             "name": "classpreloader/classpreloader",
@@ -325,12 +325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "dc3438804c6303f1b5892f184a79aa8e3ce5d81d"
+                "reference": "beb242e0e22eebdca1db571edb1bac788b054124"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/dc3438804c6303f1b5892f184a79aa8e3ce5d81d",
-                "reference": "dc3438804c6303f1b5892f184a79aa8e3ce5d81d",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/beb242e0e22eebdca1db571edb1bac788b054124",
+                "reference": "beb242e0e22eebdca1db571edb1bac788b054124",
                 "shasum": ""
             },
             "require": {
@@ -386,7 +386,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2013-07-04 15:48:06"
+            "time": "2013-07-31 00:07:06"
         },
         {
             "name": "doctrine/collections",
@@ -461,12 +461,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "6a39bb947b20d12a16820f2709509e41e28af005"
+                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/6a39bb947b20d12a16820f2709509e41e28af005",
-                "reference": "6a39bb947b20d12a16820f2709509e41e28af005",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/9c6b8615a988117dec83bdbb0fad80afef23eab8",
+                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8",
                 "shasum": ""
             },
             "require": {
@@ -527,7 +527,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2013-07-02 11:26:20"
+            "time": "2013-07-30 05:35:10"
         },
         {
             "name": "doctrine/dbal",
@@ -535,12 +535,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "2.4.0-RC2"
+                "reference": "170442dcef20c86df4c3bcba4714900ae87dbf33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/2.4.0-RC2",
-                "reference": "2.4.0-RC2",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/170442dcef20c86df4c3bcba4714900ae87dbf33",
+                "reference": "170442dcef20c86df4c3bcba4714900ae87dbf33",
                 "shasum": ""
             },
             "require": {
@@ -597,7 +597,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2013-06-25 17:49:29"
+            "time": "2013-07-31 05:13:32"
         },
         {
             "name": "doctrine/inflector",
@@ -867,12 +867,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "87556b27fb3558ca67b604be108cf095088ac382"
+                "reference": "68f62dc9c07783ce66f354f963557da25ab14dbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/87556b27fb3558ca67b604be108cf095088ac382",
-                "reference": "87556b27fb3558ca67b604be108cf095088ac382",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/68f62dc9c07783ce66f354f963557da25ab14dbe",
+                "reference": "68f62dc9c07783ce66f354f963557da25ab14dbe",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2013-07-12 16:30:50"
+            "time": "2013-08-01 14:26:36"
         },
         {
             "name": "monolog/monolog",
@@ -1124,12 +1124,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "f9c3aa2a22498ff4c0db38bae40999cebe60f831"
+                "reference": "01123ae6af005009d1c5fd37e06130bd85aad5dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/f9c3aa2a22498ff4c0db38bae40999cebe60f831",
-                "reference": "f9c3aa2a22498ff4c0db38bae40999cebe60f831",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/01123ae6af005009d1c5fd37e06130bd85aad5dc",
+                "reference": "01123ae6af005009d1c5fd37e06130bd85aad5dc",
                 "shasum": ""
             },
             "require": {
@@ -1160,7 +1160,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2013-07-12 23:03:57"
+            "time": "2013-07-27 16:50:08"
         },
         {
             "name": "patchwork/utf8",
@@ -2043,12 +2043,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JeffreyWay/Laravel-4-Generators.git",
-                "reference": "bb489018cd81f49c09739c307d8a3c1eb3e6171f"
+                "reference": "3e028625ccc2b7678999b7612a2b59fd48422537"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/bb489018cd81f49c09739c307d8a3c1eb3e6171f",
-                "reference": "bb489018cd81f49c09739c307d8a3c1eb3e6171f",
+                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/3e028625ccc2b7678999b7612a2b59fd48422537",
+                "reference": "3e028625ccc2b7678999b7612a2b59fd48422537",
                 "shasum": ""
             },
             "require": {
@@ -2085,7 +2085,7 @@
                     "role": "Developer"
                 }
             ],
-            "time": "2013-07-25 00:55:59"
+            "time": "2013-08-02 03:15:39"
         },
         {
             "name": "way/laravel-test-helpers",
@@ -2093,12 +2093,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JeffreyWay/Laravel-Test-Helpers.git",
-                "reference": "c5560ffea21a16adbfcbd53848ff915c439f8acb"
+                "reference": "0c0018f5826a15a574ec79149ba98a47262cd89d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JeffreyWay/Laravel-Test-Helpers/zipball/c5560ffea21a16adbfcbd53848ff915c439f8acb",
-                "reference": "c5560ffea21a16adbfcbd53848ff915c439f8acb",
+                "url": "https://api.github.com/repos/JeffreyWay/Laravel-Test-Helpers/zipball/0c0018f5826a15a574ec79149ba98a47262cd89d",
+                "reference": "0c0018f5826a15a574ec79149ba98a47262cd89d",
                 "shasum": ""
             },
             "require": {
@@ -2124,7 +2124,7 @@
                 }
             ],
             "description": "Easier testing in Laravel.",
-            "time": "2013-06-17 16:26:41"
+            "time": "2013-07-29 14:31:52"
         }
     ],
     "packages-dev": [
