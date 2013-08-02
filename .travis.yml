@@ -8,7 +8,8 @@ php:
 env: DB=mysql
 
 before_script:
-  - composer self-update --dev
+  - composer self-update
+  - composer update --dev
   - composer install
   - pyrus install --force phpunit/DbUnit
   - phpenv rehash
