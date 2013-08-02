@@ -9,7 +9,7 @@ env: DB=mysql
 
 before_script:
   - /home/travis/.phpenv/versions/5.5.0/bin/composer.phar self-update
-  - composer update --dev
+  - composer self-update --dev
   - pyrus install --force phpunit/DbUnit
   - phpenv rehash
   - mysql -e "CREATE DATABASE IF NOT EXISTS arcadia;" -uroot;
