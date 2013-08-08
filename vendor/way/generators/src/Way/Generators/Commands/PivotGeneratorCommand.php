@@ -28,7 +28,12 @@ class PivotGeneratorCommand extends BaseGeneratorCommand {
             'generate:migration',
             array(
                 'name'      => "pivot_{$tables[0]}_{$tables[1]}_table",
-                '--fields'  => "{$tables[0]}_id:integer, {$tables[1]}_id:integer"
+                '--fields'  => implode(', ', array(
+                    "{$tables[0]}_id:integer:unsigned:index",
+                    "{$tables[1]}_id:integer:unsigned:index",
+                    "{$tables[0]}_id:foreign:references('id'):on('" . str_plural($tables[0]) . "'):onDelete('cascade')",
+                    "{$tables[1]}_id:foreign:references('id'):on('" . str_plural($tables[1]) . "'):onDelete('cascade')"
+                ))
             )
         );
     }

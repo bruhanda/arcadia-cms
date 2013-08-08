@@ -23,7 +23,7 @@ return array(
     'Comment' => $baseDir . '/app/models/Comment.php',
     'CommentController' => $baseDir . '/app/controllers/CommentController.php',
     'CommentsTableSeeder' => $baseDir . '/app/database/seeds/CommentsTableSeeder.php',
-    'CreateCommentsTable' => $baseDir . '/app/database/migrations/2013_07_12_055004_create_comments_table.php',
+    'CreateCommentsTable' => $baseDir . '/app/database/migrations/2013_07_12_055017_create_comments_table.php',
     'CreatePostsTable' => $baseDir . '/app/database/migrations/2013_07_12_055016_create_posts_table.php',
     'CreateRolesTable' => $baseDir . '/app/database/migrations/2013_07_11_133055_create_roles_table.php',
     'CreateUsersTable' => $baseDir . '/app/database/migrations/2013_07_11_143555_create_users_table.php',
